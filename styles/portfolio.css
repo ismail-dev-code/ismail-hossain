@@ -86,9 +86,13 @@ nav a{
 }
 .about-info{
   text-align: center;
+}
+.info-description{
+  text-align: center;
+  padding: 5px;
+}
    
 
-}
 .section-title{
   color: #181818;
   text-align: center;
@@ -103,4 +107,7 @@ nav a{
 main{
   max-width: 1140px;
   margin: 0 auto;
+}
+#what-i-do-description{
+  padding: 30px 150px;
 }
